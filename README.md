@@ -1,5 +1,8 @@
-### Hi there 👋
-
+## Hi there 👋
+I am a software engineer working at ScaleOut Software, Inc.
+- 🔭 I’m currently working on the ScaleOut Digital Twin Streaming Service.
+- 🌱 I’m currently learning about deep learning strategies.  
+- 📫 How to reach me: brandonr@scaleoutsoftware.com
 <!--
 **ripleyb/ripleyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
